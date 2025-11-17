@@ -1,0 +1,10 @@
+# streamlit
+# sympy
+# torch
+# transformers
+# accelerate
+# sentencepiece
+streamlit
+sympy
+requests
+
